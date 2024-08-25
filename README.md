@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teh Lin Hui</h1>
-<h3 align="center">Full-stack developer at Lendela</h3>
+<h3 align="center">Full-stack engineer based in Kuala Lumpur, Malaysia.</h3>
 
-- 🌱 I’m currently learning **React**
+- I'm currently working at Lendela, a platform that matches users with their best loans.
+- 
+- 🌱 I’m currently learning **React** and **Docker**
 
 - 👨‍💻 All of my projects are available at [https://linhuiteh.vercel.app/](https://linhuiteh.vercel.app/)
 
