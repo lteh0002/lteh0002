@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://linhuiteh-portfolio.pages.dev/](https://linhuiteh-portfolio.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://linhuiteh-portfolio.pages.dev/](https://linhuiteh.vercel.app/)
 
 - 💬 Ask me about **vue and nodejs**
 
